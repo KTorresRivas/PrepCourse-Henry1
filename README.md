@@ -1,2 +1,1 @@
-# PrepCourse-Henry1
-This is a test repository for the second module of Henry's prep course.
+This is a practice of how to create a local repository, also a cloud version, in order to master the field of terminals, commands, repositories and commits.
